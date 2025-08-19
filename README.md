@@ -284,5 +284,3 @@ op
           
 The given data has been read and data has been cleaned and the data has been saved to a file.
 
-# Result
-Thus we have cleaned the data and removed the outliers by detection using IQR and Z-score method.
